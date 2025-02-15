@@ -1,0 +1,4 @@
+{
+  "editor.inlayHints.enabled": "off",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}

@@ -1,11 +1,7 @@
-To install dependencies:
-```sh
-bun install
-```
+# Command Handbook
 
-To run:
-```sh
-bun run dev
-```
+Start server (with hot reload):
 
-open http://localhost:3000
+```bash
+bun dev
+```
